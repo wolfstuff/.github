@@ -1,0 +1,11 @@
+{
+    "name": "Awoo Organization Workflow",
+    "description": "Awoo Organization CI workflow template",
+    "iconName": "assets/icons/awoo",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package-lock.json$"
+    ]
+}
