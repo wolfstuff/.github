@@ -38,7 +38,8 @@ When creating a new Pull Request...
 1. use an appropriate Pull Request template when available
 2. if applicable, reference any Issue(s) related to your Pull Request
 3. check your code against ESLint by running the `npm run eslint` script
-4. note that all Pull requests will be reviewed and discussed before they are merged
+4. provide tests for any code you contribute
+5. note that all Pull requests will be reviewed and discussed before they are merged
 
 ## Licensing
 At the moment, none of the code in this project is licensed.
